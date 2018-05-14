@@ -4,7 +4,7 @@
 # anthonywww
 # 05/13/2018 (MM/DD/YYYY)
 # Python Version 3.4
-# Description: A emulated client socket tester for project-delta-server https://github.com/anthonywww/project-delta-server
+# Description: A very rudimentary client emulator for testing the Project Delta Server protocol https://github.com/anthonywww/project-delta-server
 
 # Optional import for versions of python <= 2
 from __future__ import print_function
