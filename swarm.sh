@@ -4,8 +4,8 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Launch client
-max_x=6
-max_y=4
+max_x=5
+max_y=3
 
 for x in $(seq 0 $max_x); do
 	for y in $(seq 0 $max_y); do
